@@ -2153,11 +2153,11 @@ input, select, textarea {
 	}
 
 	a.icon.alt:hover:before {
-		background-color: #6fc3df;
+		background-color: #346C73;
 	}
 
 	a.icon.alt:active:before {
-		background-color: #37a6cb;
+		background-color: #346C73;
 	}
 
 /* Image */
@@ -2404,12 +2404,12 @@ input, select, textarea {
 				}
 
 					ul.pagination li > .page.active:hover {
-						background-color: #9bf1ff;
+						background-color: #346c73;
 						color: #143F59 !important;
 					}
 
 					ul.pagination li > .page.active:active {
-						background-color: #53e3fb;
+						background-color: #346c73;
 					}
 
 			ul.pagination li:first-child {
@@ -2833,7 +2833,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df;
+				background-color: #346c73;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
