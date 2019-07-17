@@ -2689,6 +2689,7 @@ input, select, textarea {
 			.button.primary:active {
 				background-color: #346C73;
 				color: #143F59 !important;
+				opacity: 0.2;
 			}
 
 			input[type="submit"].primary:active,
@@ -3498,7 +3499,7 @@ input, select, textarea {
 		}
 
 		#banner.style2:after {
-			background-color: #a5c482;
+			background-color: #F24444;
 			opacity:0.2;
 		}
 
