@@ -1,0 +1,14 @@
+.major h1 {
+    color: #346c73;
+}
+
+
+
+header.major > :first-child:after {
+    background-color: #346c73;
+    
+}
+
+#banner.style2:after {
+    background-color: #143F59;
+}
